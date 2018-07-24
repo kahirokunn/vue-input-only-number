@@ -1,6 +1,6 @@
 {
   "name": "vue-input-only-number",
-  "version": "0.9.0",
+  "version": "1.0.0",
   "main": "src/index.js",
   "description": "Vue 2.x input only number directive.",
   "repository": {
